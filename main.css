@@ -1,0 +1,49 @@
+@import url('https://fonts.google.com/specimen/Luckiest+Guy');
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: 'Luckiest Guy', 'regular';
+  line-height: 1.5;
+  padding: 30px 20px;
+  align-content: center;
+  text-align: left;
+}
+
+body {
+  background-image: url(images/green.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  padding: 20px 0px 10px 0px;
+}
+
+a {
+color: #FF3466;
+text-decoration: none;
+}
+
+/* visited link */
+  a:visited {
+      color: black;
+    }
+
+/* mouse over link */
+  a:hover {
+      color: hotpink;
+    }
+
+  /* selected link */
+    a:active {
+      color: blue;
+    }
+
+
+
+/* Centers images */
+
+img {
+display: block;
+margin: 0px auto;
+}
