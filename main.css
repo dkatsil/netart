@@ -20,7 +20,7 @@ h1 {
 }
 
 a {
-color: #FF3466;
+color: navy;
 text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ text-decoration: none;
 
 /* mouse over link */
   a:hover {
-      color: navy;
+      color: yellow;
     }
 
   /* selected link */
